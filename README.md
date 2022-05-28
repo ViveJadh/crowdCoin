@@ -29,3 +29,5 @@ Number of Requests, Number of Approvers, Balance.<br>
 * Next JS: For Front end Application
 * Netify: Hosting Service
 
+A Project done with the Udemy Course:[Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
+
