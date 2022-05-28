@@ -20,6 +20,7 @@ Number of Requests, Number of Approvers, Balance.<br>
 ![image](https://user-images.githubusercontent.com/97080149/170813020-65b8789e-4b6e-4b6a-810e-06306c83a508.png)
 * Only Manager can add new request.
 * Only Approvers can approve a request
+* Once Simple majority is obtained, the Manager can finalize the request.
 
 ## Tools Used
 * Solidity: To create Smart Contracts
