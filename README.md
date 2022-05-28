@@ -1,4 +1,4 @@
-# crowdCoin
+# CrowdCoin
 CrowdCoin is Decentralized Application built on Ethereum Test Network(Rinkeby network)<br>
 * It is platform to get funding for new ideas by creating campaigns.<br>
 * A manager creates a campaign specifying minimum contribution. He can also create requests to use the contributed money.<br>
